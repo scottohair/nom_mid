@@ -1,5 +1,9 @@
 # nom_mid
-Dec-6-2016 Sends MIDI to local DAW via routing through broswer. 
+Sends MIDI to local DAW via routing through broswer. Uses Web MIDI API (https://webaudio.github.io/web-midi-api/). This API requires Google Chrome. 
+
+
+Dec-6-2016 
+
 To Do:
 -Add select device to send to (I believe this is causing multiple signal issue when sending to Ableton via IAC driver)
 -Add browser-browser link

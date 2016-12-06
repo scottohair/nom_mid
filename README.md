@@ -1,5 +1,5 @@
 # nom_mid
-Sends MIDI to local DAW via routing through broswer. Uses Web MIDI API (https://webaudio.github.io/web-midi-api/). This API requires Google Chrome. 
+Sends MIDI to local DAW via routing through broswer. Uses Web MIDI API (https://webaudio.github.io/web-midi-api/). Requires Google Chrome. 
 
 
 Dec-6-2016 
